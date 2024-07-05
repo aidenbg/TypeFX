@@ -6,7 +6,7 @@ t(txt, time)
 
 txt is the text you wanna write
 
-time controls how fast it writes
+time controls how slow it writes
 
   -The higher the time the slower it writes out
 
