@@ -19,6 +19,7 @@ from type import t
 
 ### Extended Usage
 Writing a '^' in txt will make your text move to the next line
+
 Writing a '%' in txt will make your text skip a iine (basically \n)
 
 ### Example
