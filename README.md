@@ -1,5 +1,5 @@
 # TypeFX
-Tired of your boring print statement? Use TypeFX to make your python statements more interesting in python.
+Tired of your boring print statement? Use TypeFX to make your python statements more interesting
 
 ### Basic Syntax
 t(txt, time)
