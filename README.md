@@ -1,16 +1,16 @@
 # TypeFX
-Tired of your boring print statement? Use TypeFX instead to produce a typing effect whenever you want to print a string in python.
+Tired of your boring print statement? Use TypeFX instead to produce a typing effect whenever you want to print something in python.
 
 ## Syntax:
 t(txt, time)
 
-txt is the text you wanna write
+'txt' is the text you want to write
 
-time controls how slow it writes
+'time' controls how slow it writes
 
-    -The higher the time the slower it writes out
+->The higher the time the slower the text writes out
 
-    -Has a default value if you do not pass an argument for it  
+->Has a default value if you do not pass an argument for it  
 
 ## Example:
 ```
