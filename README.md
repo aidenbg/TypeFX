@@ -28,7 +28,7 @@ Basic
 t("Hi how is your day?", 0.03)
 ```
 
-Or
+Or bit more advanced
 
 ```
 t("Breakfast%1. Eggs^2. Milk")
