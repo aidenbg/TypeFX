@@ -8,18 +8,18 @@ txt is the text you wanna write
 
 time controls how slow it writes
 
-  -The higher the time the slower it writes out
+    -The higher the time the slower it writes out
 
-  -Has a default value if you do not pass an argument for it  
+    -Has a default value if you do not pass an argument for it  
 
-##Example:
-...
+## Example:
+```
 t("Hi how is your day?", 0.03)
-...
+```
 
 Or
 
-...
->t("Hi how is your day?")
-...
+```
+t("Hi how is your day?")
+```
 
