@@ -1,7 +1,7 @@
 # TypeFX
 Tired of your boring print statement? Use TypeFX instead to produce a typing effect whenever you want to print a string in python.
 
-Syntax:
+## Syntax:
 t(txt, time)
 
 txt is the text you wanna write
@@ -12,12 +12,14 @@ time controls how slow it writes
 
   -Has a default value if you do not pass an argument for it  
 
-Example
-
->t("Hi how is your day?", 0.03)
+##Example:
+...
+t("Hi how is your day?", 0.03)
+...
 
 Or
 
+...
 >t("Hi how is your day?")
-
+...
 
