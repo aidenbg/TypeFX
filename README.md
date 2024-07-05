@@ -22,6 +22,8 @@ Writing a '^' in txt will make your text move to the next line
 
 Writing a '%' in txt will make your text skip a iine (basically \n)
 
+^^ Are useful if you want to list things
+
 ### Example
 Basic
 ```
@@ -31,6 +33,6 @@ t("Hi how is your day?", 0.03)
 Or bit more advanced
 
 ```
-t("Breakfast%1. Eggs^2. Milk")
+t("Breakfast^1. Eggs^2. Milk"^Toast%Whats your breakfast?, 0.07)
 ```
 
